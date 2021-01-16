@@ -39,7 +39,8 @@ public class MainFragment extends Fragment {
     // I have three more empty line after this comment before I commit the code.
     // Then due to Google Java Format Github hooks, it will only keep one line.
 
-    // end test
+    // end test 2
+
   }
 
   private int test() {
